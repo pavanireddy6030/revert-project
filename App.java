@@ -3,6 +3,8 @@ public class App{
 		int a=100; int b=20;
 		System.out.println("Welcome to Devops");
 		System.out.println("Addition is:"+(a+b));
+		System.out.println("Subtraction is:"+(a-b));
+
 	}
 }
 
